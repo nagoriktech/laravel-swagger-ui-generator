@@ -5,6 +5,7 @@
 </head>
 <body>
 <div id="swagger-ui"></div>
+<div style="text-align: center">Created with ❤️ by <a href="https://github.com/niamulhasan">Niamul Hasan</a> @ <a href="https://www.nagorik.tech/">Nagorik</a></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://unpkg.com/swagger-ui-dist@3.23.1/swagger-ui-bundle.js"></script>
 <script type="application/javascript">
