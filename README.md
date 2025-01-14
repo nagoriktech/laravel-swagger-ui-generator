@@ -1,6 +1,7 @@
 # Laravel Swagger API Doc Generator - API Doctor.
 A swagger OpenApi Documentation auto generator for laravel. This package **requires no phpDoc or any kind of comments**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laravel-api-doctor-swagger&label=Views&color=0e75b6&style=flat" alt="niamulhasan" /> </p>
+<a href="https://packagist.org/users/niamulhasan/packages/">packagist.org/users/niamulhasan/packages/</a>
 
 ## Motivation
 When I was trying to generate swagger documentation for my laravel project, I found that all the available packages require you to write phpDoc or other form of comments. 
