@@ -29,7 +29,7 @@ In your projects `composer.json` file,add the following "repositories" section:
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/niamulhasan/laravel-api-doctor-swagger"
+        "url": "https://github.com/nagoriktech/laravel-swagger-ui-generator"
     }
 ]
 ```
@@ -46,7 +46,7 @@ Example:
     "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/niamulhasan/laravel-api-doctor-swagger"
+        "url": "https://github.com/nagoriktech/laravel-swagger-ui-generator"
       }
     ],
     "require": {
